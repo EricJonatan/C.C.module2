@@ -1,0 +1,58 @@
+{
+    "someone": [
+    {
+        "id": "1",
+        "name": "Mark Schamberger",
+        "phone": "(895) 025-6843",
+        "img": "https://randomuser.me/api/portraits/men/7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam commodo pulvinar lorem ac viverra neque vehicula et Ut rhoncus ipsum libero id aliquam justo pharetra ut Fusce ultrices turpis sed tortor fermentum aliquam Nulla lacinia leo vitae felis malesuada vel venenatis odio commodo Phasellus quis nisi nec risus posuere iaculis a at felis Nam vestibulum odio vitae sem vestibulum sed feugiat est tempor Quisque bibendum ipsum vitae massa molestie vel posuere lorem scelerisque Integer id libero vitae justo rutrum egestas Fusce sit amet quam ut lorem rhoncus posuere a eget sem Mauris id metus consequat ullamcorper risus ac sollicitudin nulla Morbi lobortis mauris id quam vestibulum id fermentum quam efficitur Vivamus posuere justo at viverra gravida justo risus auctor neque ac ultricies",
+        "position": "manager",
+        "address": {
+            "street": "829 Feest Circle",
+            "city": "Gottliebfort",
+            "state": "Arkansas"
+      }
+    },
+    {
+        "id": "2",
+        "name": "Rebekah Lynch",
+        "phone": "(966) 298-5143",
+        "img": "https://randomuser.me/api/portraits/women/55.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam commodo pulvinar lorem ac viverra neque vehicula et Ut rhoncus ipsum libero id aliquam justo pharetra ut Fusce ultrices turpis sed tortor fermentum aliquam Nulla lacinia leo vitae felis malesuada vel venenatis odio commodo Phasellus quis nisi nec risus posuere iaculis a at felis Nam vestibulum odio vitae sem vestibulum sed feugiat est tempor Quisque bibendum ipsum vitae massa molestie vel posuere lorem scelerisque Integer id libero vitae justo rutrum egestas Fusce sit amet quam ut lorem rhoncus posuere a eget sem Mauris id metus consequat ullamcorper risus ac sollicitudin nulla Morbi lobortis mauris id quam vestibulum id fermentum quam efficitur Vivamus posuere justo at viverra gravida justo risus auctor neque ac ultricies",
+        "position": "creative team lead",
+        "address": {
+            "street": "15924 Kasandra Islands",
+            "city": "Dianabury",
+            "state": "Oklahoma"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Kira Robel",
+        "phone": "(747) 902-2667",
+        "img": "https://randomuser.me/api/portraits/men/24.jpg",
+        "position": "marketing lead",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam commodo pulvinar lorem ac viverra neque vehicula et Ut rhoncus ipsum libero id aliquam justo pharetra ut Fusce ultrices turpis sed tortor fermentum aliquam Nulla lacinia leo vitae felis malesuada vel venenatis odio commodo Phasellus quis nisi nec risus posuere iaculis a at felis Nam vestibulum odio vitae sem vestibulum sed feugiat est tempor Quisque bibendum ipsum vitae massa molestie vel posuere lorem scelerisque Integer id libero vitae justo rutrum egestas Fusce sit amet quam ut lorem rhoncus posuere a eget sem Mauris id metus consequat ullamcorper risus ac sollicitudin nulla Morbi lobortis mauris id quam vestibulum id fermentum quam efficitur Vivamus posuere justo at viverra gravida justo risus auctor neque ac ultricies",
+        "address": {
+            "street": "8471 Amelia Neck",
+            "city": "Lake Maryse",
+            "state": "Pennsylvania"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Henri Champlin PhD",
+        "phone": "(647) 878-0845",
+        "img": "https://randomuser.me/api/portraits/men/12.jpg",
+        "position": "Planner manager",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam commodo pulvinar lorem ac viverra neque vehicula et Ut rhoncus ipsum libero id aliquam justo pharetra ut Fusce ultrices turpis sed tortor fermentum aliquam Nulla lacinia leo vitae felis malesuada vel venenatis odio commodo Phasellus quis nisi nec risus posuere iaculis a at felis Nam vestibulum odio vitae sem vestibulum sed feugiat est tempor Quisque bibendum ipsum vitae massa molestie vel posuere lorem scelerisque Integer id libero vitae justo rutrum egestas Fusce sit amet quam ut lorem rhoncus posuere a eget sem Mauris id metus consequat ullamcorper risus ac sollicitudin nulla Morbi lobortis mauris id quam vestibulum id fermentum quam efficitur Vivamus posuere justo at viverra gravida justo risus auctor neque ac ultricies",
+        "address": {
+          "street": "0866 Wilton Extension",
+          "city": "East Jasperborough",
+          "state": "Virginia"
+        }
+    }
+    ]
+
+}
+  
